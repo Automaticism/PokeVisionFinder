@@ -275,7 +275,7 @@ def _finderTrackemon(city):
                         _pokemonslisted.append(_id)
                         _printer(_name, _lat, _lng, _exp)
                         if ps_use: 
-                            webbrowser.open_new("pokesniper2://"+name+"/"+str(lat)+","+str(lng))
+                            webbrowser.open_new("pokesniper2://"+_name+"/"+str(_lat)+","+str(_lng))
                             sleep(7)
                     else:
                         print "[INFO] Pokemon already listed found."
