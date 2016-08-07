@@ -26,8 +26,8 @@ _sessionid = ""
 _scriptpath = os.path.dirname(os.path.realpath(__file__))
 #PokeSniper2 Configuration
 ps_use = True
-ps_path = "C:\Users\prefe\Downloads\PokeSniper2_v1.10\PokeSniper2.exe"
-ps_dir = "C:\Users\prefe\Downloads\PokeSniper2_v1.10"
+ps_path = "\PokeSniper2.exe"
+ps_dir = ""
 
 #ErrorLogger
 def _logError(error):
