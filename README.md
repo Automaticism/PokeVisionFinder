@@ -3,6 +3,7 @@
 # HOW TO RUN
 
 1) Open PokeSniper2 folder
+
 2) Run registerurl.bat
 ![registerurl.bat](http://puu.sh/qtnBx/eaa3754313.png)
 
