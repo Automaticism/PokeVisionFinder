@@ -5,10 +5,13 @@
 1) Open PokeSniper2 folder
 
 2) Run registerurl.bat
+
 ![registerurl.bat](http://puu.sh/qtnBx/eaa3754313.png)
 
 
 3) Mark everything in the path to your Pokesniper2 folder (Ctrl+C or Right Click and copy)
+
+![mark everything](http://puu.sh/qto4i/f8bbdf9275.png)
 
 4) Open PokeVisionFinder.py
 
