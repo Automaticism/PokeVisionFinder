@@ -8,9 +8,13 @@
 
 
 3) Mark everything in the path to your Pokesniper2 folder (Ctrl+C or Right Click and copy)
+
 4) Open PokeVisionFinder.py
+
 5) Paste the path in ``` ps_path = "PATHINHERE\PokeSniper2.exe" ``` and in ``` ps_dir = "PATHINHERE" ```
+
 6) Open RunPVFMinimal.bat
+
 7) Enjoy
 
 Supports which pokemons to catch in a .txt file.
