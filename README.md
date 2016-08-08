@@ -13,7 +13,9 @@
 
 ![mark everything](http://puu.sh/qto4i/f8bbdf9275.png)
 
-4) Open PokeVisionFinder.py
+4) Go back to your PokeVisionFinder folder and --> Open PokeVisionFinder.py (right click EDIT)
+
+![explanation](http://puu.sh/qtosD/9a47749213.gif)
 
 5) Paste the path in ``` ps_path = "PATHINHERE\PokeSniper2.exe" ``` and in ``` ps_dir = "PATHINHERE" ```
 
